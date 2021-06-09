@@ -1,4 +1,4 @@
-# Made by Aelve
+# Made by Aelve.
 # Called every tick.
 # Creates particles and checks gates are valid.
 
