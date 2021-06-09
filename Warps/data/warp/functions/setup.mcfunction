@@ -1,4 +1,4 @@
-# Made by Aelve
+# Made by Aelve.
 # Called by warp/advancements/button_unpowered.json
 # Sets up markers when walking over buttons on shulker.
 
