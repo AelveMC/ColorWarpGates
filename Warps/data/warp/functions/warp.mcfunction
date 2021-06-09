@@ -1,4 +1,4 @@
-# Made by Aelve
+# Made by Aelve.
 # Called by warp/advancements/button_powered.json
 # Detects buttons on top of shulker_box.
 
